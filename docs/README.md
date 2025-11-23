@@ -17,7 +17,7 @@ config:
         -
           theme: brand
           text: 文档
-          link: /docs.html
+          link: /docs/
         -
           theme: alt
           text: Github →
